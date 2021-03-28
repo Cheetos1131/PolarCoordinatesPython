@@ -1,4 +1,4 @@
-import math, turtle, subprocess
+import turtle
 from Rose import RoseCurve
 
 screen2 = turtle.Screen()

@@ -1,4 +1,4 @@
-import math, turtle, subprocess
+import math, turtle
 
 screen1 = turtle.Screen()
 screen1.setup(width=1080, height=1920, startx=0, starty=0)
