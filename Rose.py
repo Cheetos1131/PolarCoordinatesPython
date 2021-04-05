@@ -9,7 +9,7 @@ rose.speed(20)
 
 startDeg = 0
 endDeg = 360
-n = 100
+n = 2
 d = 97
 
 
